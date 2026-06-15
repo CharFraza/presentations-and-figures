@@ -18,7 +18,7 @@ You are free to share and adapt the materials provided appropriate attribution i
 
 If you use materials from this repository, please cite:
 
-> Fraza, C. (2026). *Presentations and Figures*. GitHub repository.
+> Fraza, C. (2026). *Presentations and Figures*. [GitHub repository](https://github.com/CharFraza/presentations-and-figures/).
 
 GitHub citation information is available through the `CITATION.cff` file.
 
