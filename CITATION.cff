@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "Presentations and Figures on Computational Neuroscience and Normative Modelling"
+message: "If you use these presentations or figures, please cite this repository."
+type: software
+
+authors:
+  - family-names: "Fraza"
+    given-names: "Charlotte"
+
+repository-code: "https://github.com/CharFraza/presentations-and-figures"
+
+abstract: >
+  Collection of presentation slides, figures, diagrams, and educational
+  materials related to computational neuroscience, machine learning,
+  and normative modelling.
+
+keywords:
+  - computational neuroscience
+  - machine learning
+  - scientific visualization
+  - presentations
+  - figures
+  - education
+
+license: "CC-BY-4.0"
+
+date-released: 2026-06-15
+
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Fraza"
+      given-names: "Charlotte"
+  title: "Presentations and Figures on Computational Neuroscience"
+  year: 2026
+  repository-code: "https://github.com/CharFraza/presentations-and-figures"
